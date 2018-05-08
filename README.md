@@ -30,7 +30,8 @@ Add the dependencies to module 's gradle file
 ```
 
 Other options: [https://jitpack.io/#lyhoangvinh/myutil/]
-
+[![](https://jitpack.io/v/lyhoangvinh/myutil.svg)]
+(https://jitpack.io/#lyhoangvinh/myutil)
 License
 =======
 
