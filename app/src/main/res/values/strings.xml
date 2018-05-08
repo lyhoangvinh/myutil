@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyUtil</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_close">Close</string>
+
+    <string name="view_more">Expand</string>
+    <string name="view_less">Collapse</string>
+
+    <string name="format_google_map_intent_uri" formatted="true" translatable="false">geo:%s?q=%s(%s)</string>
+
+    <string name="title_activity_glide_test">GlideTestActivity</string>
+
+    <string name="title_activity_image_detail">ImageDetailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="alert_permission_open_app_setting">Open app setting to enable needed permission</string>
+    <string name="alert_permission_not_granted">Permission Denied, need to be enabled!</string>
+</resources>
