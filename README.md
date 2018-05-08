@@ -29,7 +29,7 @@ Add the dependencies to module 's gradle file
     implementation 'com.github.lyhoangvinh:myutil:-90cfd8d01e-1'
 ```
 
-Other options: [https://jitpack.io/v/lyhoangvinh/]
+Other options: [https://jitpack.io/#lyhoangvinh/myutil/]
 
 License
 =======
@@ -48,7 +48,7 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]: https://github.com/lyhoangvinh/myutils/releases
+[1]: https://github.com/lyhoangvinh/myutils/
 [2]: https://jitpack.io/docs/#snapshots
 [3]: https://jitpack.io/#lyhoangvinh/myutils
 
