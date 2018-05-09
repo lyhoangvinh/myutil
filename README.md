@@ -21,12 +21,19 @@ allprojects {
     }
 }
 ```
-  
+
+```groovy
+	<dependency>
+	    <groupId>com.github.lyhoangvinh</groupId>
+	    <artifactId>myutil</artifactId>
+	    <version>9e748a01ae</version>
+	</dependency>
+ ```
 Add the dependencies to module 's gradle file
 
 * Using SNAPSHOT version (see [JitPack][2] for documentation):
 ```groovy
-    implementation 'com.github.lyhoangvinh:myutil:-90cfd8d01e-1'
+        implementation 'com.github.lyhoangvinh:myutil:9e748a01ae'
 ```
 
 Other options: [https://jitpack.io/#lyhoangvinh/myutil/]
