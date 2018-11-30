@@ -26,14 +26,14 @@ allprojects {
 	<dependency>
 	    <groupId>com.github.lyhoangvinh</groupId>
 	    <artifactId>myutil</artifactId>
-	    <version>9e748a01ae</version>
+	    <version>2</version>
 	</dependency>
  ```
 Add the dependencies to module 's gradle file
 
 * Using SNAPSHOT version (see [JitPack][2] for documentation):
 ```groovy
-        implementation 'com.github.lyhoangvinh:myutil:9e748a01ae'
+        implementation 'com.github.lyhoangvinh:myutil:2'
 ```
 
 Other options:  [https://jitpack.io/#lyhoangvinh/myutil.svg][3]  
