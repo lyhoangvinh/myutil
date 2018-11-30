@@ -36,8 +36,8 @@ Add the dependencies to module 's gradle file
         implementation 'com.github.lyhoangvinh:myutil:9e748a01ae'
 ```
 
-Other options: [https://jitpack.io/#lyhoangvinh/myutil/]
-[![](https://jitpack.io/v/lyhoangvinh/myutil.svg)](https://jitpack.io/#lyhoangvinh/myutil)
+Other options:  [https://jitpack.io/#lyhoangvinh/myutil.svg][3]  
+
 License
 =======
 
